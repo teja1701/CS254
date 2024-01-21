@@ -1,0 +1,2 @@
+First minima of the array is:0
+Second minima of the array is:0
